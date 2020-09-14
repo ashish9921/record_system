@@ -1,6 +1,7 @@
 # record_system
 
 in this project completely GUI based 
+program use to save name , id, city, date of birth ,gender and course 
 
 for this project required some modules given bellow
 1 Tkinter
